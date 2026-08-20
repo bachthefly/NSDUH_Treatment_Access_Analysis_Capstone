@@ -130,8 +130,7 @@ Selected figures are available in _figures/_.
 │   └── ...                  # Final visualizations
 ├── output_reports/
 │   ├── MHTRTPY/             # Mental health treatment results
-│   ├── SUTRTPY/             # Substance use treatment results
-│   └── hist/                # Intermediate analysis outputs
+│   └──  SUTRTPY/             # Substance use treatment results
 ├── writing/
 │   └── ...                  # Research paper and supporting materials
 ├── .gitignore
