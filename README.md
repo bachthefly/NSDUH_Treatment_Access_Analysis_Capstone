@@ -163,4 +163,4 @@ If referencing this work, please cite the accompanying research paper.
 
 Author: Bach Nguyen
 
-Denison University · 2026
+Denison University · 2025
