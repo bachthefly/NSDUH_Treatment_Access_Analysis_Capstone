@@ -117,23 +117,25 @@ The repository includes:
 - Descriptive distributions
 - Predictor importance analyses
 
-Selected figures are available in _figures/_.
+Selected figures are available in [`figures/`](figures/).
 
 ## Repository Structure
 ```text
-├── code/
-│   ├── ...                  # Analysis notebooks
-│   └── ...
+├── notebooks/
+│   ├── 01_treatment_access_modeling.ipynb
+│   └── 02_treatment_access_visualization.ipynb
 ├── data/
-│   └── ...                  # Data documentation / sample data
+│   └── README.md
+├── results/
+│   ├── MHTRTPY/
+│   └── SUTRTPY/
 ├── figures/
-│   └── ...                  # Final visualizations
-├── output_reports/
-│   ├── MHTRTPY/             # Mental health treatment results
-│   └──  SUTRTPY/             # Substance use treatment results
-├── writing/
-│   └── ...                  # Research paper and supporting materials
+│   ├── MHTRTPY/
+│   └── SUTRTPY/
+├── paper/
+│   └── ...
 ├── .gitignore
+├── requirements.txt
 └── README.md
 ```
 ## Research Paper
@@ -162,4 +164,4 @@ If referencing this work, please cite the accompanying research paper.
 
 Author: Bach Nguyen
 
-Denison University · 2025
+Denison University · 2026
