@@ -19,7 +19,7 @@ These frameworks motivate the examination of demographic characteristics, struct
 
 ## Data
 
-The analysis uses the **2023 National Survey on Drug Use and Health (NSDUH)**, a nationally representative survey conducted by the **Substance Abuse and Mental Health Services Administration (SAMHSA)** -- An agency of the **United States Department of Health and Human Services**.
+The analysis uses the **2023 National Survey on Drug Use and Health (NSDUH)**, a nationally representative survey conducted by the **Substance Abuse and Mental Health Services Administration (SAMHSA)** - An agency of the **United States Department of Health and Human Services**.
 
 Two treatment-access outcomes are examined:
 
